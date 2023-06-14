@@ -1,3 +1,26 @@
-[-] Install django rest framework
-[-] Add names of Installed apps + rest frmwrk
+[+] Install django rest framework
+[+] Add names of Installed apps + rest frmwrk
 [-] Set urls to api app
+[-] Set views with classBased views
+[-] Create and set serializers
+    [-] Connect 'TO DO' models
+    [-] Set permissions for created and datecompleted
+[-] Set class parameters to views
+[-] Add set_queryset to the class
+[-] Add CreateList view to views
+    [-] Add perform_create function
+    [-] Update urls
+[-] Add Destroy classbased view
+[-] Add CompleteSerializer
+[-] Add CompleteView
+    [-] Update urls
+    [-] Add function perform_create with datetime
+[-] Add signup url
+[-] Add csrf_exempt decorator to views
+[-] Add function signup to views
+[-] Import and add to views JSONParsers from rest frmwrk
+[-] Add JsonResponse
+
+
+
+

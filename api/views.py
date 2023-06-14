@@ -1,3 +1,6 @@
-from django.shortcuts import render
+from rest_framework import generics
+from api.serializers import TodoListSerializer
 
-# Create your views here.
+class TodoListView(generics.ListAPIView):
+    serializer_class = TodoListSerializer
+
