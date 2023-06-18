@@ -1,8 +1,8 @@
 [+] Install django rest framework
 [+] Add names of Installed apps + rest frmwrk
-[-] Set urls to api app
-[-] Set views with classBased views
-[-] Create and set serializers
+[+] Set urls to api app
+[+] Set views with classBased views
+[+] Create and set serializers
     [-] Connect 'TO DO' models
     [-] Set permissions for created and datecompleted
 [-] Set class parameters to views
